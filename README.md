@@ -10,6 +10,7 @@
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 </a>
 
+#### &nbsp;
 
 I'm Mebarek, a freelance Data Analyst specializing in the finance industry. Welcome to my data journey! Here, I bring insights to life through interactive charts and dashboards, code explorations, and industry insights. Let's connect and explore the world of data together.
 
