@@ -17,7 +17,7 @@ I'm Mebarek, a freelance Data Analyst specializing in the finance industry. Welc
 
 📊 **Tableau Public**: Discover my data visualization journey on Tableau Public. Connect with me here: [Tableau Public Profile](https://public.tableau.com/app/profile/mohammed.mebarek.mecheter)
 
-🚀 **GitHub**: Dive into my data projects and code explorations on GitHub. From Python scripts to data analysis notebooks, you'll find it all here: [GitHub Repositories](https://github.com/Mohammed-Mebarek-Mechete](https://github.com/Mohammed-Mebarek-Mecheter?tab=repositories)
+🚀 **GitHub**: Dive into my data projects and code explorations on GitHub. From Python scripts to data analysis notebooks, you'll find it all here: [GitHub Repositories](https://github.com/Mohammed-Mebarek-Mecheter?tab=repositories)
 
 𝕏 **X**: Join me on 𝕏 to stay updated with the latest in data trends, industry insights, and more: [𝕏 Profile](https://twitter.com/MecheterMebarek)
 
@@ -29,6 +29,15 @@ With a strong skill set in Excel, SQL, Python, Power BI, Tableau, KNIME, and Alt
 
 <a href="https://www.python.org/">
   <img align="left" alt="Python" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+</a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel/">
+  <img align="left" alt="Excel" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" />
+</a>
+<a href="https://www.postgresql.org/">
+  <img align="left" alt="Postgresql" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" />
+</a>
+<a href="https://www.mysql.com/">
+  <img align="left" alt="MySql" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />
 </a>
 <a href="https://www.streamlit.io/">
   <img align="left" alt="Streamlit" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/streamlit.svg" />
@@ -91,6 +100,7 @@ With a strong skill set in Excel, SQL, Python, Power BI, Tableau, KNIME, and Alt
 </a>
 <img align="left" alt="Powerpoint" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftpowerpoint.svg" />
 
+#### &nbsp;
 
 ## Let's Connect
 
