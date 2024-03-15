@@ -1,4 +1,8 @@
-## Hello :wave:
+<a href="https://mebarek.pages.dev/"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Mebarek" alt="Mebarek" /></a>
+
+<h3 align="center">A passionate Data Analyst</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohammed-Mebarek-Mecheter&label=Profile%20views&color=0e75b6&style=flat" alt="Mebarek" /> </p>
 
 <a href="https://twitter.com/MecheterMebarek/">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -12,19 +16,21 @@
 
 #### &nbsp;
 
-I'm Mebarek, a freelance Data Analyst specializing in the finance industry. Welcome to my data journey! Here, I bring insights to life through interactive charts and dashboards, code explorations, and industry insights. Let's connect and explore the world of data together.
+Welcome to my data journey! Here, I bring insights to life through interactive charts and dashboards, code explorations, and industry insights. Let's connect and explore the world of data together.
+
+<img align="right" alt="Data" width="400" src="https://github.com/Mohammed-Mebarek-Mecheter/Mohammed-Mebarek-Mecheter/blob/main/giphy.gif">
 
 ## Profiles
 
-📊 **Tableau Public**: Discover my data visualization journey on Tableau Public. Connect with me here: [Tableau Public Profile](https://public.tableau.com/app/profile/mohammed.mebarek.mecheter)
+**Portfolio**: Dive into my data projects and posts on my portfolio website, you'll find it all here: [Portfolio](https://mebarek.pages.dev/)
 
-🚀 **Portfolio**: Dive into my data projects and posts on my portfolio website, you'll find it all here: [Portfolio](https://mebarek.pages.dev/)
+**Tableau Public**: Discover my data visualization journey on Tableau Public. Connect with me here: [Tableau Public Profile](https://public.tableau.com/app/profile/mohammed.mebarek.mecheter)
 
-𝕏 **X**: Join me on 𝕏: [𝕏 Profile](https://twitter.com/MecheterMebarek)
+𝕏: Join me on 𝕏: [𝕏 Profile](https://twitter.com/MecheterMebarek)
 
 ## Expertise
 
-With a strong skill set in Excel, SQL, Python, Power BI, Tableau, I'm well-equipped to handle a variety of data challenges. My expertise lies in collecting, cleaning, and visualizing data to drive informed decision-making.
+With a strong skill set in Excel, SQL, Python, Power BI, and Tableau, I'm well-equipped to handle various data challenges. My expertise lies in collecting, cleaning, and visualizing data to drive informed decision-making.
 
 **Main - Python / Data Analytics**
 
@@ -87,6 +93,17 @@ With a strong skill set in Excel, SQL, Python, Power BI, Tableau, I'm well-equip
 
 #### &nbsp;
 
-## Let's Connect
+<h2 align="center"> Stats </h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com?user=mohammed-Mebarek-Mecheter&theme=dark" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mohammed-Mebarek-Mecheter&theme=dark&show_icons=true" alt="readme stats" />
+  <br/>
+   &nbsp; <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-Mebarek-Mecheter&show_icons=true&locale=en&layout=compact" alt="top langs" />
+</div>
+<br/>
 
-I'm passionate about data's potential to shape business success. Feel free to reach out to discuss your specific requirements and how I can contribute to your successful projects and unlock the true potential of your data. Let's collaborate and make your data work for you!
+<hr/>
+<h3 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Thanks+for+stopping+by!;Feel+free+to+connect+with+me+on+LinkedIn;for+collaboration+opportunities" />
+</h3>
