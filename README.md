@@ -105,5 +105,5 @@ With a strong skill set in Excel, SQL, Python, Power BI, and Tableau, I'm well-e
 
 <hr/>
 <h3 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Thanks+for+stopping+by!;Feel+free+to+connect+with+me+on+LinkedIn;for+collaboration+opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Thanks+for+stopping+by!;Connect+with+me+on+LinkedIn;for+collaboration+opportunities" />
 </h3>
